@@ -1,4 +1,4 @@
-<img src="https://github.com/CS23-PS276/sahabat-lansia/assets/96944447/9f3a1cee-aa1a-4f23-a611-6dd5f4d89643" alt="logo_bg_gradient" width="100px" />
+<img src="https://github.com/CH2-PS416/.github/blob/6f0329c6f90c1eb29284b84e9e500005a406dc99/profile/logo-navo.png" alt="logo_bg_gradient" width="100px" />
 
 # About
 Navo Mobility, as an innovative solution in the travel industry, is more than just a transportation app. We are here not only to provide practical convenience, but also as a travel companion that reduces the fear and uncertainty that may be felt during long trips.
