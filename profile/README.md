@@ -7,17 +7,17 @@ With real-time artificial intelligence (AI), Navomobility becomes a faithful com
 
 
 # Features
-Integrated Trip Planning: Easily plan your entire trip, including transportation, accommodation and activities, all in one app.
+- Integrated Trip Planning: Easily plan your entire trip, including transportation, accommodation and activities, all in one app.
 
-AI Travel Assistant: Your smart travel companion provides real-time guidance, personalized recommendations and decision support throughout your trip.
+- AI Travel Assistant: Your smart travel companion provides real-time guidance, personalized recommendations and decision support throughout your trip.
 
-Multi-Modal Transportation: Choose from a variety of transportation options, such as plane, train, bus, car, or motorcycle, tailored to your preferences and needs.
+- Multi-Modal Transportation: Choose from a variety of transportation options, such as plane, train, bus, car, or motorcycle, tailored to your preferences and needs.
 
-Personalized Offers: Enjoy personalized service offers and promotional rates based on your preferences, to ensure the best deal for your chosen transport.
+- Personalized Offers: Enjoy personalized service offers and promotional rates based on your preferences, to ensure the best deal for your chosen transport.
 
-Trip Notifications: Get timely notifications, including flight and accommodation reminders, to keep you informed and organized during your trip.
+- Trip Notifications: Get timely notifications, including flight and accommodation reminders, to keep you informed and organized during your trip.
 
-Secure One Payment System Integration: Enjoy a secure payment system that supports multiple methods, including credit cards, digital wallets, and other payment options.
+- Secure One Payment System Integration: Enjoy a secure payment system that supports multiple methods, including credit cards, digital wallets, and other payment options.
 
 
 # The Team
