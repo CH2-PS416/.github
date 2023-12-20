@@ -6,6 +6,10 @@ Navo Mobility, as an innovative solution in the travel industry, is more than ju
 With real-time artificial intelligence (AI), Navomobility becomes a faithful companion during the journey. Thanks to the guidance and recommendations of our AI Assistant, people can travel with confidence. This is not only a revolution in the world of public transportation, but also a paradigm shift to create a positive, comfortable, and safe travel experience for everyone.
 
 
+# Video Profile
+<iframe src="https://youtu.be/p-WVWu6VCQI"></iframe>
+
+
 # Features
 - Integrated Trip Planning: Easily plan your entire trip, including transportation, accommodation and activities, all in one app.
 
