@@ -7,7 +7,7 @@ With real-time artificial intelligence (AI), Navomobility becomes a faithful com
 
 
 # Video Profile
-<img src="https://img.youtube.com/vi/p-WVWu6VCQI/hqdefault.jpg" alt="YouTube Thumbnail">
+<img src="https://img.youtube.com/vi/p-WVWu6VCQI/">
 
 
 # Features
